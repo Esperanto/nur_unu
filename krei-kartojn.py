@@ -1,12 +1,5 @@
 #!/usr/bin/python3
 
-import gi
-gi.require_version('Rsvg', '2.0')
-from gi.repository import Rsvg
-gi.require_version('Pango', '1.0')
-from gi.repository import Pango
-gi.require_version('PangoCairo', '1.0')
-from gi.repository import PangoCairo
 import cairo
 import re
 import sys

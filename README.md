@@ -6,7 +6,7 @@ Se vi volas simple havi la PDF, elŝutu ĝin de [ĉi tie](https://esperanto.gith
 Aliokaze, por ruli la skripton oni unue devas instali la dependajn
 pakaĵojn. Ĉe Fedora oni povas ruli la jenan komandon:
 
-    sudo dnf install librsvg2 python3-gobject python3-cairo python3
+    sudo dnf install python3-cairo python3
 
 Poste simple rulu la skripton:
 
