@@ -15,4 +15,4 @@ Poste simple rulu la skripton:
 Tio kreos PDF kiu nomiĝas `nur_unu.pdf`.
 
 Se vi volas aldoni aŭ forigi vortojn vi povas redakti la liston en
-`vortoj.csv`. La skripto atentas nur la duan kolunmon.
+`vortoj.csv`. La skripto atentas nur la duan kolumnon.
