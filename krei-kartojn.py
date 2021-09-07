@@ -118,9 +118,12 @@ generator = CardGenerator()
 line_num = 0
 all_words = set()
 
-with open('vortoj.csv', 'rt') as f:
+with open('vortoj.tsv', 'rt') as f:
     for line in f:
         line_num += 1
+
+        if line_num == 1:
+            continue
 
         md = EXTRACT_WORD_RE.match(line)
         if md is None:
